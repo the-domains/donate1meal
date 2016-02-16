@@ -1,4 +1,4 @@
-name: Donate 1 meal
+name: Donate1meal
 favicon: null
 layout_spectrum: 0.08266
 typography_spectrum: 0.75896
@@ -23,7 +23,7 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
   brandStrength: 0.0625
-  lightness: 0.7882967058103532
+  lightness: 0.75
   saturation: 0.5889846233185381
   rhythmicContrast: 0.5416718262713403
 purpose: []
