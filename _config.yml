@@ -1,6 +1,6 @@
-name: Donate1meal
+name: Donate 1 meal
 favicon: null
-layout_spectrum: 0.024029778316617012
+layout_spectrum: 0.08266
 typography_spectrum: 0.9013879774138331
 title: 'Donate 1 meal and help stop hunger!'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.9681285289116204
+  brandStrength: 0.0625
   lightness: 0.7882967058103532
   saturation: 0.5889846233185381
   rhythmicContrast: 0.5416718262713403
