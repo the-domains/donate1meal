@@ -1,29 +1,41 @@
-name: Donate1meal
-favicon: null
-layout_spectrum: 0.24548
-typography_spectrum: 0.49101
 title: 'Donate 1 Meal and help stop hunger now!'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-73838438-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.5
+  brandStrength: 0.8125
+  rhythmicContrast: 0.5416718262713403
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.8125
   lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5416718262713403
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-73838438-1
+  facebook: null
+name: Donate1meal
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.49101
+layout_spectrum: 0.1297872
