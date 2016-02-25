@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2016-02-16T18:14:40.539Z'
-dateModified: '2016-02-16T14:25:56.597Z'
+description: Feed the Hungry.
+datePublished: '2016-02-25T15:23:46.844Z'
+dateModified: '2016-02-25T15:16:37.999Z'
 title: 'Donate1Meal.org Launching Soon!'
 author: []
+sourcePath: _posts/2016-02-16-donate1mealorg-launching-soon.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-16-donate1mealorg-launching-soon.md
-published: true
-url: donate1mealorg-launching-soon/index.html
-_type: Article
+_type: Blurb
 
 ---
 ## [Donate1Meal.org Launching Soon!][0]
